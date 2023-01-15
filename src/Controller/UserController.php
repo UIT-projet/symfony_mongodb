@@ -64,10 +64,10 @@ class UserController extends AbstractController
         $dm->flush();
         return  $this->json([
             'status' => true,
-            "message" => $user,
-            "data" => $datas,
+            /*"message" => $user,*/
+           /* "data" => $datas,
             "com" => $com[0],
-            "dd" => $dd
+            "dd" => $dd*/
         ]);
     }
 
