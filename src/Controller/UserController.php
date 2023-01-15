@@ -39,7 +39,7 @@ class UserController extends AbstractController
         ]);
     }
 
-    #[Route('/commander/{idu}', name: 'create_user', methods: ['POST'])]
+    #[Route('/commander/{idu}', name: 'commander', methods: ['POST'])]
     public function commander(Request $req, DocumentManager $dm, $idu): Response
     {
         $data = json_decode($req->getContent());
