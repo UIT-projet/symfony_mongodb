@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "63c05130241ac7111359e054"
+  },
+  "noms": "Nsuadi kiese glodi",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673305200000"
+    }
+  },
+  "tel": 822423682,
+  "password": "1234"
+},{
+  "_id": {
+    "$oid": "63c05514241ac7111359e055"
+  },
+  "noms": "Nsuadi kiese glodi",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673305200000"
+    }
+  },
+  "tel": 822423683,
+  "password": "$2y$13$72U80DFa60P6mootfXoTF.CqRvgfwrHtyVPMNqmf4zB88ghOAuxOG"
+},{
+  "_id": {
+    "$oid": "63c0552f241ac7111359e056"
+  },
+  "noms": "Nsuadi kiese glodi",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673305200000"
+    }
+  },
+  "tel": 822423686,
+  "password": "$2y$13$5dWboMqnZGsbtu7XNIj6u.GLv.Wu6lXmV24e4fu2GkF7YG7Jcj6lq"
+},{
+  "_id": {
+    "$oid": "63c11d8b65b78f0ba65e04d2"
+  },
+  "noms": "Nsuadi kiese glodi",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673996400000"
+    }
+  },
+  "tel": 82,
+  "password": "$2y$13$vFhSNIMy9PNnJ/As5ueUAO7oxwVLzhv3uLrda4w.lUfb2tQbSZpTe"
+},{
+  "_id": {
+    "$oid": "63c1533339a97d45cc6f99e2"
+  },
+  "noms": "Bukasa tshitoko laurent",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1685660400000"
+    }
+  },
+  "tel": 822423282,
+  "password": "$2y$13$DHJ/TlJPEYr5mfNa9Fuhd.TUBBJKviUOecoiObORNDleDN1zXtHrO",
+  "commandes": {
+    "0": {
+      "commande": [
+        {
+          "_id": "63c1823339a97d45cc6f99f4",
+          "nom": "Choux de chine",
+          "qte": 4,
+          "prix": 5000
+        },
+        {
+          "_id": "63c1825939a97d45cc6f99f5",
+          "nom": "choux pommé",
+          "qte": 5,
+          "prix": 2049
+        }
+      ],
+      "etat": 0
+    },
+    "1": {
+      "commande": [
+        {
+          "_id": "63c1823339a97d45cc6f99f4",
+          "nom": "Choux de chine",
+          "qte": 4,
+          "prix": 5000
+        },
+        {
+          "_id": "63c1825939a97d45cc6f99f5",
+          "nom": "choux pommé",
+          "qte": 5,
+          "prix": 2049
+        }
+      ],
+      "etat": 0
+    },
+    "2": {
+      "commande": [
+        {
+          "_id": "63c25dcb39a97d45cc6f99fa",
+          "nom": "Carotte",
+          "qte": 2,
+          "prix": 30
+        },
+        {
+          "_id": "63c26e3639a97d45cc6f99fb",
+          "nom": "Celerie",
+          "qte": 1,
+          "prix": 5000
+        },
+        {
+          "_id": "63c2704939a97d45cc6f99fe",
+          "nom": "Ananas",
+          "qte": 2,
+          "prix": 800
+        },
+        {
+          "_id": "63c26e6639a97d45cc6f99fc",
+          "nom": "Epinard",
+          "qte": 1,
+          "prix": 20
+        }
+      ],
+      "etat": 0
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c153ad39a97d45cc6f99e3"
+  },
+  "noms": "Boss",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673478000000"
+    }
+  },
+  "tel": 822423281,
+  "password": "$2y$13$kbjhFwDqEVKvl6gfGZijSeStAyQUPR/eUsyuXzBgSJ5RMcBgLP8CK"
+},{
+  "_id": {
+    "$oid": "63c1541e39a97d45cc6f99e4"
+  },
+  "noms": "",
+  "genre": "Feminin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1674082800000"
+    }
+  },
+  "tel": 822423284,
+  "password": "$2y$13$WL4WGt/8mFjsBITqegfTIunZgqqAQ1pml1NvjlGwQNo9Q0zBlqXau"
+},{
+  "_id": {
+    "$oid": "63c1546c39a97d45cc6f99e5"
+  },
+  "noms": "Kiese chou",
+  "genre": "Masculin",
+  "dnaiss": {
+    "$date": {
+      "$numberLong": "1673391600000"
+    }
+  },
+  "tel": 822423287,
+  "password": "$2y$13$mfnT0tv7mLwYtdyatT2exug5CavhvJeYqSWIlfjVzJAjQT32hHRRC",
+  "commandes": {
+    "0": {
+      "commande": [
+        {
+          "_id": "63c2704939a97d45cc6f99fe",
+          "nom": "Ananas",
+          "qte": 2,
+          "prix": 800
+        },
+        {
+          "_id": "63c26f1d39a97d45cc6f99fd",
+          "nom": "Mangue",
+          "qte": 3,
+          "prix": 40
+        },
+        {
+          "_id": "63c2707139a97d45cc6f99ff",
+          "nom": "Citron",
+          "qte": 2,
+          "prix": 600
+        }
+      ],
+      "etat": 0
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c160bc39a97d45cc6f99e6"
+  },
+  "noms": "glodi",
+  "tel": 822423999,
+  "password": "$2y$13$1det1XnOQHBe7ug5XEP2FuMY66UM.Et2ZROHkRYYLZAq46/hMvgJm",
+  "role": 1
+}]

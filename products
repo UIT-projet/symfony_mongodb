@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63c1823339a97d45cc6f99f4"
+  },
+  "nom": "Choux de chine",
+  "qte": 400,
+  "prix": 5000,
+  "categorie": {
+    "$oid": "63c17440e2fd720200b63742"
+  }
+},{
+  "_id": {
+    "$oid": "63c1825939a97d45cc6f99f5"
+  },
+  "nom": "choux pommé",
+  "qte": 5000,
+  "prix": 2049,
+  "categorie": {
+    "$oid": "63c17440e2fd720200b63742"
+  }
+},{
+  "_id": {
+    "$oid": "63c25b9539a97d45cc6f99f6"
+  },
+  "nom": "Rataba",
+  "qte": 30,
+  "prix": 5000,
+  "categorie": {
+    "$oid": "63c1743de2fd720200b63741"
+  }
+},{
+  "_id": {
+    "$oid": "63c25bcb39a97d45cc6f99f7"
+  },
+  "nom": "Salade",
+  "qte": 20,
+  "prix": 4000,
+  "categorie": {
+    "$oid": "63c17440e2fd720200b63742"
+  }
+},{
+  "_id": {
+    "$oid": "63c25d8e39a97d45cc6f99f8"
+  },
+  "nom": "Ail",
+  "qte": 300,
+  "prix": 30,
+  "categorie": {
+    "$oid": "63c1743de2fd720200b63741"
+  }
+},{
+  "_id": {
+    "$oid": "63c25db039a97d45cc6f99f9"
+  },
+  "nom": "Haricot vert",
+  "qte": 400,
+  "prix": 500,
+  "categorie": {
+    "$oid": "63c1743de2fd720200b63741"
+  }
+},{
+  "_id": {
+    "$oid": "63c25dcb39a97d45cc6f99fa"
+  },
+  "nom": "Carotte",
+  "qte": 4000,
+  "prix": 30,
+  "categorie": {
+    "$oid": "63c1743de2fd720200b63741"
+  }
+},{
+  "_id": {
+    "$oid": "63c26e3639a97d45cc6f99fb"
+  },
+  "nom": "Celerie",
+  "qte": 300,
+  "prix": 5000,
+  "categorie": {
+    "$oid": "63c17440e2fd720200b63742"
+  }
+},{
+  "_id": {
+    "$oid": "63c26e6639a97d45cc6f99fc"
+  },
+  "nom": "Epinard",
+  "qte": 400,
+  "prix": 20,
+  "categorie": {
+    "$oid": "63c17440e2fd720200b63742"
+  }
+},{
+  "_id": {
+    "$oid": "63c26f1d39a97d45cc6f99fd"
+  },
+  "nom": "Mangue",
+  "qte": 4000,
+  "prix": 40,
+  "categorie": {
+    "$oid": "63c173fde2fd720200b6373f"
+  }
+},{
+  "_id": {
+    "$oid": "63c2704939a97d45cc6f99fe"
+  },
+  "nom": "Ananas",
+  "qte": 56,
+  "prix": 800,
+  "categorie": {
+    "$oid": "63c173fde2fd720200b6373f"
+  }
+},{
+  "_id": {
+    "$oid": "63c2707139a97d45cc6f99ff"
+  },
+  "nom": "Citron",
+  "qte": 89,
+  "prix": 600,
+  "categorie": {
+    "$oid": "63c173fde2fd720200b6373f"
+  }
+}]

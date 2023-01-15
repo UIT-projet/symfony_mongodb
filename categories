@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63c173fde2fd720200b6373f"
+  },
+  "id": {
+    "$oid": "63c173cee2fd720200b6373e"
+  },
+  "lib": "Fruit"
+},{
+  "_id": {
+    "$oid": "63c1743de2fd720200b63741"
+  },
+  "id": {
+    "$oid": "63c1741ee2fd720200b63740"
+  },
+  "lib": "Legumes Fruit"
+},{
+  "_id": {
+    "$oid": "63c17440e2fd720200b63742"
+  },
+  "lib": "Legumes Feuille"
+}]
