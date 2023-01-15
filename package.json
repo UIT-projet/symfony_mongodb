@@ -1,0 +1,41 @@
+{
+    "devDependencies": {
+        "@babel/core": "^7.17.0",
+        "@babel/preset-env": "^7.16.0",
+        "@hotwired/stimulus": "^3.0.0",
+        "@symfony/stimulus-bridge": "^3.2.0",
+        "@symfony/ux-chartjs": "file:vendor/symfony/ux-chartjs/assets",
+        "@symfony/webpack-encore": "^4.0.0",
+        "autoprefixer": "^10.4.13",
+        "chart.js": "^3.4.1",
+        "core-js": "^3.23.0",
+        "postcss": "^8.4.21",
+        "postcss-loader": "^7.0.2",
+        "regenerator-runtime": "^0.13.9",
+        "tailwindcss": "^3.2.4",
+        "ts-loader": "^9.4.2",
+        "typescript": "^4.9.4",
+        "vue": "^3",
+        "vue-loader": "^17.0.1",
+        "vue-template-compiler": "^2.7.14",
+        "webpack": "^5.74.0",
+        "webpack-cli": "^4.10.0",
+        "webpack-notifier": "^1.15.0"
+    },
+    "license": "UNLICENSED",
+    "private": true,
+    "scripts": {
+        "dev-server": "encore dev-server",
+        "dev": "encore dev",
+        "watch": "encore dev --watch",
+        "build": "encore production --progress"
+    },
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "axios": "^1.2.2",
+        "mitt": "^3.0.0",
+        "vue-axios": "^3.5.2",
+        "vue-router": "^4.1.6",
+        "vue-toastification": "^2.0.0-rc.5"
+    }
+}
