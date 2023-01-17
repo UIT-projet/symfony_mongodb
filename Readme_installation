@@ -1,0 +1,10 @@
+//Installation
+executer les commandes suivantes :
+  composer install
+  npm install 
+  yarn install
+
+
+//apres avoir lancé le serveur symfony
+executer le commande suivante dans un autre terminal pour vuejs :
+  yarn encore dev-server
